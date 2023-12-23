@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.btn-change {
+  background-color: rgb(180, 243, 180);
+  margin-right: 10px;
+}
